@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<testcase>
+   <inputValue_0><![CDATA[{"P_VAR1":2,"P_VAR2":2,"P_RESULT":0}]]></inputValue_0>
+   <inputValue_1><![CDATA[{"P_VAR1":9,"P_VAR2":9,"P_RESULT":0}]]></inputValue_1>
+</testcase>

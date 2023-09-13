@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<configuration>
+   <setup connectArcad="true" useRepository="true"/>
+   <servername>HOM01</servername>
+   <username>MYADAV</username>
+   <password>bdf0d8507575ae33522cab36c813290b5d487c87adb6</password>
+   <ccsid>37</ccsid>
+   <languagelibrary>ARCQA_ENG</languagelibrary>
+   <ssl>false</ssl>
+   <instance>
+      <productionlibrary>ARCQA_PRD</productionlibrary>
+      <code>QA</code>
+      <description/>
+      <iASP>1</iASP>
+      <iASPDatabase/>
+      <languagelibrary>ARCQA_ENG</languagelibrary>
+      <languagelibraries>
+         <languagelibrary key="ENG" value="ARCQA_ENG"/>
+      </languagelibraries>
+   </instance>
+   <codecoveragepath>/home/ArcadiUnit/JUnitVSCod/CCReports/</codecoveragepath>
+   <repository application="" aspname="*SYSTEM" description="JUnitVSCod" environment="" identifier="43" initializationdate="2023-09-04" initialized="true" lastsynchronizationdate="2023-09-04-05.33.47.601000" name="JUnitVSCod" version="*NONE" versionselected="false">
+      <libraries>
+         <objectlibraries>
+            <objectlibrary name="IUNDEMO1" order="1"/>
+         </objectlibraries>
+         <sourcelibraries>
+            <sourcelibrary name="IUNDEMO1" order="1"/>
+         </sourcelibraries>
+         <executionlibraries>
+            <executionlibrary name="IUNDEMO1" order="1"/>
+         </executionlibraries>
+      </libraries>
+   </repository>
+</configuration>
