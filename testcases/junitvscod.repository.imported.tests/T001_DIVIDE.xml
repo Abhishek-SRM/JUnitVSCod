@@ -15,10 +15,10 @@
          <before/>
          <after/>
       </steps>
-      <result hour="0" mil="0" min="0" sec="0" status="">
-         <input/>
-         <output/>
-         <compare/>
-      </result>
+      <result hour="0" mil="0" min="0" sec="0" status=""> 
+                <input><![CDATA[{"P_VAR1":22,"P_VAR2":2}]]></input>
+                <output><![CDATA[{"INPUT":{"P_VAR1":0,"P_VAR2":0},"OUTPUT":{"Rtn_xxVar":0}}]]></output>
+                <compare><![CDATA[{"INPUT":{"P_VAR1":"*EQ","P_VAR2":"*EQ"},"OUTPUT":{"Rtn_xxVar":"*EQ"}}]]></compare>
+            </result>
    </testcase>
 </testcases>
