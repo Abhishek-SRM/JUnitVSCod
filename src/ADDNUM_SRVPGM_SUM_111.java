@@ -1,3 +1,4 @@
+
 import java.util.Collection;
 import org.junit.*;
 import org.junit.runner.RunWith;
@@ -11,9 +12,9 @@ import java.util.List;
 import java.util.Arrays;
 
 @RunWith(value = Parameterized.class)
-public class ADDNUM_SRVPGM_SUM {
+public class ADDNUM_SRVPGM_SUM_111 {
 
-    static String inputXMLFilePath = "testcases/ADDNUM_SRVPGM_SUM.xml";
+    static String inputXMLFilePath = "testcases/ADDNUM_SRVPGM_SUM_111.xml";
     String input;
     String expectedResult;
     String compareJson;
@@ -22,7 +23,7 @@ public class ADDNUM_SRVPGM_SUM {
     boolean isErrorAssertion = false;
     boolean isPass = false;
 
-    public ADDNUM_SRVPGM_SUM(String input, String expectedResult, String compareJson) {
+    public ADDNUM_SRVPGM_SUM_111(String input, String expectedResult, String compareJson) {
         this.input = input;
         this.expectedResult = expectedResult;
         this.compareJson = compareJson;
@@ -30,7 +31,7 @@ public class ADDNUM_SRVPGM_SUM {
 
     @Parameters
     public static Collection<String[]> testData() {
-        return XMLUtils.getTestData("resources/ADDNUM_SRVPGM_SUM");
+        return XMLUtils.getTestData("resources/ADDNUM_SRVPGM_SUM_111");
     }
 
     @BeforeClass

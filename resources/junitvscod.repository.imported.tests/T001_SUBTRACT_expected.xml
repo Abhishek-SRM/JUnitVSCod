@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
-<testcase>
-  <expectedValue_0><![CDATA[{"INPUT":{"P_VAR1":21,"P_VAR2":22,"P_RESULT":43}}]]></expectedValue_0>
-  <expectedValue_1><![CDATA[{"INPUT":{"P_VAR1":33,"P_VAR2":33,"P_RESULT":33}}]]></expectedValue_1>
-  <expectedValue_2><![CDATA[{"INPUT":{"P_VAR1":12,"P_VAR2":11,"P_RESULT":11}}]]></expectedValue_2>
-  <expectedValue_3><![CDATA[{"INPUT":{"P_VAR1":0,"P_VAR2":0,"P_RESULT":0}}]]></expectedValue_3>
-  <expectedValue_4><![CDATA[{"INPUT":{"P_VAR1":5555,"P_VAR2":5555,"P_RESULT":5555}}]]></expectedValue_4>
-<expectedValue_5><![CDATA[{"INPUT":{"P_VAR1":222,"P_VAR2":222,"P_RESULT":222}}]]></expectedValue_5></testcase>

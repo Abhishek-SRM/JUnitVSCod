@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<testcase>
+  <inputValue_0><![CDATA[{"VAR1":12,"VAR2":34}]]></inputValue_0>
+<inputValue_1><![CDATA[{"VAR1":22,"VAR2":22}]]></inputValue_1><inputValue_2><![CDATA[{"VAR1":23,"VAR2":33}]]></inputValue_2><inputValue_3><![CDATA[{"VAR1":333,"VAR2":22}]]></inputValue_3><inputValue_4><![CDATA[{"VAR1":33,"VAR2":3}]]></inputValue_4></testcase>

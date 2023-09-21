@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
-<testcase>
-   <variableValue/>
-   <actualValue_0>
-      <actualValue><![CDATA[{"OUTPUT":{"Rtn_xxVar":54},"INPUT":{"VAR1":32,"VAR2":22}}]]></actualValue>
-      <keys/>
-      <codeCovReportPath>/home/ArcadiUnit/JUnitVSCod/CCReports/ADDNUM_SRVPGM_SUM0.cczip</codeCovReportPath>
-   </actualValue_0>
-</testcase>

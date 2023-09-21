@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<testcase>
+  <compareValue_0><![CDATA[{"INPUT":{"VAR1":"*EQ","VAR2":"*EQ"}}]]></compareValue_0>
+<compareValue_1><![CDATA[{"INPUT":{"VAR1":"*EQ","VAR2":"*EQ"}}]]></compareValue_1></testcase>

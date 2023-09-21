@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
-<testcase>
-  <inputValue_0><![CDATA[{"P_VAR1":21,"P_VAR2":22,"P_RESULT":43}]]></inputValue_0>
-  <inputValue_1><![CDATA[{"P_VAR1":33,"P_VAR2":33,"P_RESULT":33}]]></inputValue_1>
-  <inputValue_2><![CDATA[{"P_VAR1":12,"P_VAR2":2313,"P_RESULT":11}]]></inputValue_2>
-  <inputValue_3><![CDATA[{"P_VAR1":0,"P_VAR2":0,"P_RESULT":0}]]></inputValue_3>
-  <inputValue_4><![CDATA[{"P_VAR1":5555,"P_VAR2":5555,"P_RESULT":5555}]]></inputValue_4>
-  
-<inputValue_5><![CDATA[{"P_VAR1":2121,"P_VAR2":222,"P_RESULT":222}]]></inputValue_5></testcase>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
-<testcase>
-  <compareValue_0><![CDATA[{"INPUT":{"P_VAR1":"*EQ","P_VAR2":"*EQ","P_RESULT":"*EQ"}}]]></compareValue_0>
-  <compareValue_1><![CDATA[{"INPUT":{"P_VAR1":"*EQ","P_VAR2":"*EQ","P_RESULT":"*EQ"}}]]></compareValue_1>
-  <compareValue_2><![CDATA[{"INPUT":{"P_VAR1":"*EQ","P_VAR2":"*EQ","P_RESULT":"*EQ"}}]]></compareValue_2>
-  <compareValue_3><![CDATA[{"INPUT":{"P_VAR1":"*LE","P_VAR2":"*GT","P_RESULT":"*GE"}}]]></compareValue_3>
-  <compareValue_4><![CDATA[{"INPUT":{"P_VAR1":"*EQ","P_VAR2":"*EQ","P_RESULT":"*EQ"}}]]></compareValue_4>
-<compareValue_5><![CDATA[{"INPUT":{"P_VAR1":"*EQ","P_VAR2":"*EQ","P_RESULT":"*EQ"}}]]></compareValue_5></testcase>
