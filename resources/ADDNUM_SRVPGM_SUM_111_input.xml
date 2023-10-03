@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
-<testcase>
-  <inputValue_0><![CDATA[{"VAR1":11,"VAR2":22}]]></inputValue_0>
-<inputValue_1><![CDATA[{"VAR1":121,"VAR2":1212}]]></inputValue_1></testcase>

@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
-<testcase>
-  <expectedValue_0><![CDATA[{"INPUT":{"VAR1":12,"VAR2":22}}]]></expectedValue_0>
-<expectedValue_1><![CDATA[{"INPUT":{"VAR1":22,"VAR2":22}}]]></expectedValue_1><expectedValue_2><![CDATA[{"INPUT":{"VAR1":23,"VAR2":33}}]]></expectedValue_2><expectedValue_3><![CDATA[{"INPUT":{"VAR1":333,"VAR2":22}}]]></expectedValue_3><expectedValue_4><![CDATA[{"INPUT":{"VAR1":0,"VAR2":0}}]]></expectedValue_4></testcase>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
-<testcase>
-   <variableValue/>
-   <actualValue_0>
-      <actualValue><![CDATA[{"INPUT":{"P_VAR1":2,"P_VAR2":2,"P_RESULT":4}}]]></actualValue>
-      <keys/>
-      <codeCovReportPath>/home/ArcadiUnit/JUnitVSCod/CCReports/ADD_002_ADD0.cczip</codeCovReportPath>
-   </actualValue_0>
-</testcase>
